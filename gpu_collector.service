@@ -1,0 +1,8 @@
+[Unit]
+Description=A simple nvidia-smi collector for prometheus/node_exporter
+
+[Service]
+ExecStart=/opt/gpu_collector.sh
+
+[Install]
+WantedBy=multi-user.target
