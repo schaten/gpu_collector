@@ -1,4 +1,4 @@
-# A minimal GPU metric collector for node_exporter based on nvidia_smi written in pure BASH
+# Tiny nvidia_smi-based GPU collector for node_exporter
 
 To activate metric collection,
 1) `install.sh` and

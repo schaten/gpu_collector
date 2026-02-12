@@ -1,4 +1,8 @@
 #!/bin/bash
+# Copyright 2026. Philip Schaten
+# All rights reserved. Use of this source code is governed by
+# a BSD-style license which can be found in the LICENSE file.
+
 set -euo pipefail
 
 outfile=/tmp/text_metrics/test.prom
